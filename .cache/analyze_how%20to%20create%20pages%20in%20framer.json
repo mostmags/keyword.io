@@ -1,0 +1,40 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "-kNqT8JDCFQ",
+      "title": "The Anatomy of a Framer Project (Fundamentals Lesson 2)",
+      "views": "110,375 views",
+      "subs": "359K"
+    },
+    {
+      "videoId": "P5H7zs0RsUM",
+      "title": "Learn Framer in 20 Minutes (Crash Course)",
+      "views": "1,011,978 views",
+      "subs": "1.1M"
+    },
+    {
+      "videoId": "mVMR7tpXM6o",
+      "title": "How To Add New Page In Framer (Full Guide)",
+      "views": "2,590 views",
+      "subs": "8.8K"
+    },
+    {
+      "videoId": "_Fuo4g_LCLI",
+      "title": "How To Create Multiple Pages In Framer (Full Guide)",
+      "views": "1,819 views",
+      "subs": "8.8K"
+    },
+    {
+      "videoId": "hCPwHVD-pd4",
+      "title": "How To Link Pages In Framer (Tutorial 2026)",
+      "views": "391 views",
+      "subs": "5K"
+    }
+  ],
+  "channelRank": {
+    "position": 3,
+    "videoId": "mVMR7tpXM6o",
+    "title": "How To Add New Page In Framer (Full Guide)"
+  }
+}

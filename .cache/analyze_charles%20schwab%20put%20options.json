@@ -1,0 +1,40 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "rrgYG9EUN5k",
+      "title": "Selling Put Option Example on Charles Schwab",
+      "views": "80,093 views",
+      "subs": "711K"
+    },
+    {
+      "videoId": "gWp3op51ZzI",
+      "title": "Investing Basics: Options",
+      "views": "60,280 views",
+      "subs": "552K"
+    },
+    {
+      "videoId": "b8CV_tpf7fE",
+      "title": "How to Trade Options for Beginners: Covered Calls on thinkorswim®",
+      "views": "156,608 views",
+      "subs": "552K"
+    },
+    {
+      "videoId": "8DPmItWQbio",
+      "title": "How to BUY a put option on Schwab (example)",
+      "views": "2,863 views",
+      "subs": "695"
+    },
+    {
+      "videoId": "fNGTprn7NIU",
+      "title": "How To Sell A Put Option On Charles Schwab",
+      "views": "14,181 views",
+      "subs": "19.6K"
+    }
+  ],
+  "channelRank": {
+    "position": 12,
+    "videoId": "3O1NBppjlno",
+    "title": "How To Sell Cash Secured Puts On Charles Schwab (Full Guide)"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "mpj3X5NPp1g",
+      "title": "Get Seen. Get Booked. | Booking.com",
+      "views": "93,524,583 views",
+      "subs": "27.5K"
+    },
+    {
+      "videoId": "cUoPbGLP0kI",
+      "title": "Want a bit more space? Easy. | Booking.com",
+      "views": "33,490,991 views",
+      "subs": "637K"
+    },
+    {
+      "videoId": "yUVL76cGXA4",
+      "title": "Booking.com personalizes travel at scale with AI-powered experiences",
+      "views": "26,177 views",
+      "subs": "2.1M"
+    },
+    {
+      "videoId": "h_tcfmz_tlE",
+      "title": "How Booking.com Built AI that Converts Millions",
+      "views": "244,005 views",
+      "subs": "24.9K"
+    },
+    {
+      "videoId": "1uVUAKeZYLg",
+      "title": "Booking.com - AI Trip Planner demo",
+      "views": "4,710 views",
+      "subs": "15.1K"
+    }
+  ],
+  "channelRank": null
+}

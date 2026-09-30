@@ -1,0 +1,40 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "Ve5BrWUF79A",
+      "title": "Charles Schwab Investing Tutorial For Beginners (In Under 5 Mins)",
+      "views": "128,093 views",
+      "subs": "13.1K"
+    },
+    {
+      "videoId": "Tiyystl8x40",
+      "title": "Understanding Market, Limit, and Stop Orders",
+      "views": "408,605 views",
+      "subs": "552K"
+    },
+    {
+      "videoId": "uDkp3aaeBUI",
+      "title": "How To Exercise a Call Option On Charles Schwab (Full Guide)",
+      "views": "330 views",
+      "subs": "8.8K"
+    },
+    {
+      "videoId": "npr-i3HyxwA",
+      "title": "How to Short Sell Stocks with Charles Schwab",
+      "views": "74,340 views",
+      "subs": "711K"
+    },
+    {
+      "videoId": "rrgYG9EUN5k",
+      "title": "Selling Put Option Example on Charles Schwab",
+      "views": "80,096 views",
+      "subs": "711K"
+    }
+  ],
+  "channelRank": {
+    "position": 3,
+    "videoId": "uDkp3aaeBUI",
+    "title": "How To Exercise a Call Option On Charles Schwab (Full Guide)"
+  }
+}

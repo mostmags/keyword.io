@@ -1,0 +1,40 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "1Jk8S9r4GVE",
+      "title": "Make Any Framer Component with ChatGPT",
+      "views": "66,695 views",
+      "subs": "82K"
+    },
+    {
+      "videoId": "phPksnJx-ac",
+      "title": "How To Add Code Component In Framer (Full Guide)",
+      "views": "4,621 views",
+      "subs": "8.8K"
+    },
+    {
+      "videoId": "5_oL9cvknUY",
+      "title": "Adding Custom Code to a Page or your Entire Framer Site",
+      "views": "45,988 views",
+      "subs": "359K"
+    },
+    {
+      "videoId": "xrkzI4vBjZ8",
+      "title": "Framer Code Component vs Override — Plus How AI Can Build Them for You!",
+      "views": "1,270 views",
+      "subs": "3.7K"
+    },
+    {
+      "videoId": "-n77tpO__lY",
+      "title": "Intro to Code Overrides",
+      "views": "1,302 views",
+      "subs": "1.7K"
+    }
+  ],
+  "channelRank": {
+    "position": 2,
+    "videoId": "phPksnJx-ac",
+    "title": "How To Add Code Component In Framer (Full Guide)"
+  }
+}

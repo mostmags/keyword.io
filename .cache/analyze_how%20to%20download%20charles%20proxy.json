@@ -1,0 +1,36 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "cSWlGsLeXJk",
+      "title": "how to install Charles Proxy and certificates on Windows, Android and iPhone",
+      "views": "13,019 views",
+      "subs": "291"
+    },
+    {
+      "videoId": "_gHE29b2E_M",
+      "title": "Charles Proxy: Installation and Setup on Windows/MacBook for Testers | Android & iOS Configuration",
+      "views": "1,216 views",
+      "subs": "7"
+    },
+    {
+      "videoId": "KnNmQDiYZVs",
+      "title": "Installing Charles Proxy Certificate on Android Emulator",
+      "views": "27,109 views",
+      "subs": "23"
+    },
+    {
+      "videoId": "nEcz0Dw9IQI",
+      "title": "Charles Proxy | Installation | Setting Up Android Device With Charles Proxy",
+      "views": "104,436 views",
+      "subs": "2.4K"
+    },
+    {
+      "videoId": "SiZf7sVIgCg",
+      "title": "Charles Proxy on Android",
+      "views": "32,192 views",
+      "subs": "1.2K"
+    }
+  ],
+  "channelRank": null
+}

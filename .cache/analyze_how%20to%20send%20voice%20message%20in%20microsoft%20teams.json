@@ -1,0 +1,36 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "l54Iz9ZDoTk",
+      "title": "Sending Voice Messages in Microsoft Teams - Tutorial🎙️",
+      "views": "6,430 views",
+      "subs": "32"
+    },
+    {
+      "videoId": "UPlQygVLna4",
+      "title": "How to Send a Voice Message in Microsoft Teams Chat",
+      "views": "1,488 views",
+      "subs": "2.2K"
+    },
+    {
+      "videoId": "GOqz6x2OczQ",
+      "title": "How to Send a Voice Message in Microsoft Teams (Step by Step)",
+      "views": "67 views",
+      "subs": "988"
+    },
+    {
+      "videoId": "GoBNIiyGRJs",
+      "title": "How to Send a Voice Message in Microsoft Teams (Voice Note Sending)",
+      "views": "57 views",
+      "subs": "41"
+    },
+    {
+      "videoId": "CHupInsLfGs",
+      "title": "How to Send Voice Messages in Teams",
+      "views": "350 views",
+      "subs": "4.2K"
+    }
+  ],
+  "channelRank": null
+}

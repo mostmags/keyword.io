@@ -1,0 +1,36 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "OV25x3a55pk",
+      "title": "BottomNavigationView with Fragments | Android Studio Tutorial  | 2024",
+      "views": "89,672 views",
+      "subs": "45.7K"
+    },
+    {
+      "videoId": "0x5kmLY16qE",
+      "title": "Bottom Navigation Bar in Android Studio using Java | Explanation",
+      "views": "66,962 views",
+      "subs": "35.3K"
+    },
+    {
+      "videoId": "jOFLmKMOcK0",
+      "title": "Bottom Navigation Bar - Android Studio | Fragments | Java | 2023",
+      "views": "147,562 views",
+      "subs": "22.5K"
+    },
+    {
+      "videoId": "KJhYqe04bGo",
+      "title": "BottomNavigationView in Android Studio | Android Studio Tutorial for Beginners",
+      "views": "50,535 views",
+      "subs": "4.5M"
+    },
+    {
+      "videoId": "L4gxwt_lNfw",
+      "title": "Animated Bottom Navigation Bar in Android - Android Studio Tutorial",
+      "views": "7,862 views",
+      "subs": "330K"
+    }
+  ],
+  "channelRank": null
+}

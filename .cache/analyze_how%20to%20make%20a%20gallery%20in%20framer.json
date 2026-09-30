@@ -1,0 +1,40 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "EXRMhjHgH7Q",
+      "title": "How To Add An Image Gallery To Framer (Tutorial 2026)",
+      "views": "2,552 views",
+      "subs": "5K"
+    },
+    {
+      "videoId": "ajDCdg-j2XM",
+      "title": "How To Add Gallery In Framer (Full Guide)",
+      "views": "498 views",
+      "subs": "8.8K"
+    },
+    {
+      "videoId": "WuPyC_gpVQw",
+      "title": "Framer Update: CMS Galleries",
+      "views": "35,150 views",
+      "subs": "359K"
+    },
+    {
+      "videoId": "THUdPhJxKus",
+      "title": "Framer really needed this *NEW* feature...",
+      "views": "7,324 views",
+      "subs": "82K"
+    },
+    {
+      "videoId": "N5YTTaLCFmE",
+      "title": "This new Framer CMS feature is amazing (UPDATE)",
+      "views": "7,771 views",
+      "subs": "612"
+    }
+  ],
+  "channelRank": {
+    "position": 2,
+    "videoId": "ajDCdg-j2XM",
+    "title": "How To Add Gallery In Framer (Full Guide)"
+  }
+}

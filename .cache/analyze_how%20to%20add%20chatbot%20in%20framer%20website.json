@@ -1,0 +1,40 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "3RMOyqnJ4hc",
+      "title": "Add a Customer AI Chatbot to Your Framer Website",
+      "views": "3,150 views",
+      "subs": "27K"
+    },
+    {
+      "videoId": "_Y9pyWTvpkQ",
+      "title": "Add a Custom AI Chatbot To Your Framer Website (In Minutes)",
+      "views": "10,962 views",
+      "subs": "6.7K"
+    },
+    {
+      "videoId": "VH9jtqrg4CY",
+      "title": "How To Add Chatbot In Framer Website (Full Guide)",
+      "views": "981 views",
+      "subs": "8.8K"
+    },
+    {
+      "videoId": "dcLn7TtGzFg",
+      "title": "How To Easily Add Voiceflow Chatbot To Framer (2026 Easy Guide)",
+      "views": "101 views",
+      "subs": "1.5K"
+    },
+    {
+      "videoId": "E0FiSC3vSWM",
+      "title": "How to add Voiceflow chatbot to Framer (Bot Guide)",
+      "views": "220 views",
+      "subs": "7.7K"
+    }
+  ],
+  "channelRank": {
+    "position": 3,
+    "videoId": "VH9jtqrg4CY",
+    "title": "How To Add Chatbot In Framer Website (Full Guide)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "x6gVXOnVnY0",
+      "title": "How To Add Video In CMS Framer (Full Video)",
+      "views": "3,535 views",
+      "subs": "8.8K"
+    },
+    {
+      "videoId": "YVKWPEAp9OY",
+      "title": "Framer Tutorial : How to connect videos to CMS in Framer",
+      "views": "14,447 views",
+      "subs": "288"
+    },
+    {
+      "videoId": "Y3o0Ljtv2No",
+      "title": "How To Connect Videos To CMS In Framer (Tutorial 2026)",
+      "views": "254 views",
+      "subs": "5K"
+    },
+    {
+      "videoId": "b-VTDDpRoaM",
+      "title": "Framer tutorial: How to include video in your CMS from YouTube, Vimeo, or Own  video host",
+      "views": "12,818 views",
+      "subs": "533"
+    },
+    {
+      "videoId": "G__T0rFE_vE",
+      "title": "How To ADD VIDEO In CMS Framer (QUICK & EASY) 2026",
+      "views": "769 views",
+      "subs": "29.2K"
+    }
+  ],
+  "channelRank": {
+    "position": 1,
+    "videoId": "x6gVXOnVnY0",
+    "title": "How To Add Video In CMS Framer (Full Video)"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "KPLXB9e98Oc",
+      "title": "How to Organize Files in Microsoft Teams | Tips and Tricks",
+      "views": "26,741 views",
+      "subs": "7.6K"
+    },
+    {
+      "videoId": "lCffBMlfVRU",
+      "title": "Teams - How to Manage Files and Folders in a Channel",
+      "views": "72,398 views",
+      "subs": "100K"
+    },
+    {
+      "videoId": "lD1DATVtiNg",
+      "title": "The Ultimate Guide to Document Libraries in Teams",
+      "views": "12,503 views",
+      "subs": "5.5K"
+    },
+    {
+      "videoId": "QQnevxT3oMk",
+      "title": "Document Storage: OneDrive, SharePoint or Microsoft Teams",
+      "views": "220,689 views",
+      "subs": "509K"
+    },
+    {
+      "videoId": "z6IUiamE3-U",
+      "title": "How to Use Microsoft Teams Effectively | Your COMPLETE Guide",
+      "views": "2,116,940 views",
+      "subs": "3.1M"
+    }
+  ],
+  "channelRank": null
+}

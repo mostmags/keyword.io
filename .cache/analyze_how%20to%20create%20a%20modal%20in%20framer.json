@@ -1,0 +1,40 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "trVHDVSVcq8",
+      "title": "Pop-up Modals in Framer (Tutorial)",
+      "views": "5,798 views",
+      "subs": "1.2K"
+    },
+    {
+      "videoId": "3r0KI7SFcOU",
+      "title": "Using Framer Overlays To Add Popups & Dropdowns",
+      "views": "31,915 views",
+      "subs": "3.5K"
+    },
+    {
+      "videoId": "G1YB3-8Vxf8",
+      "title": "How to Create Responsive Overlay and Modal Components in Framer | Framer Responsive Design Tutorial",
+      "views": "32,907 views",
+      "subs": "6.5K"
+    },
+    {
+      "videoId": "mK73IbcyhBg",
+      "title": "Framer Popup | How to create framer popup modal with contact form | Framer Popup Explanation",
+      "views": "12,080 views",
+      "subs": "95"
+    },
+    {
+      "videoId": "0TJFJR6OuB0",
+      "title": "Framer Tutorial: Pop-up Banners",
+      "views": "7,224 views",
+      "subs": "19.8K"
+    }
+  ],
+  "channelRank": {
+    "position": 10,
+    "videoId": "KplXMlh4Aog",
+    "title": "How To Add 3D Model In Framer (Full Guide)"
+  }
+}

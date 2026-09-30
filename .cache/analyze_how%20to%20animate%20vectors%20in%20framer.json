@@ -1,0 +1,36 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "AJAShXzeJpI",
+      "title": "Animating Vectors in Framer (Vectors Lesson 5)",
+      "views": "4,993 views",
+      "subs": "359K"
+    },
+    {
+      "videoId": "MOmvYoUFQWU",
+      "title": "Animating vector paths in Framer (Animation Lesson 18)",
+      "views": "22,489 views",
+      "subs": "359K"
+    },
+    {
+      "videoId": "IebxU4aRS68",
+      "title": "Animating Icons on Hover (Framer Tutorial)",
+      "views": "16,393 views",
+      "subs": "82K"
+    },
+    {
+      "videoId": "fnisGe-jO_Y",
+      "title": "Framer Vector Feature Explained",
+      "views": "1,792 views",
+      "subs": "2K"
+    },
+    {
+      "videoId": "k0gVnc-OH7I",
+      "title": "Drawing with Vectors in Framer  (Vectors Lesson 2)",
+      "views": "4,792 views",
+      "subs": "359K"
+    }
+  ],
+  "channelRank": null
+}

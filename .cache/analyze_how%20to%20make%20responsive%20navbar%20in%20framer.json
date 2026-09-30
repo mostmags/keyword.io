@@ -1,0 +1,40 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "Cz52GG0h9GI",
+      "title": "Framer for Beginners: Creating a Responsive Website Navigation",
+      "views": "105,366 views",
+      "subs": "82K"
+    },
+    {
+      "videoId": "-2CbpZq4i8k",
+      "title": "Framer Tutorial: Responsive Navigation Bar",
+      "views": "37,703 views",
+      "subs": "19.8K"
+    },
+    {
+      "videoId": "nrICDRO1WYM",
+      "title": "Framer Fully Responsive Navbar (Only video you will ever need)",
+      "views": "10,796 views",
+      "subs": "16.6K"
+    },
+    {
+      "videoId": "E70kiUQDSFM",
+      "title": "How to Build a RESPONSIVE Navbar in Framer (tutorial)",
+      "views": "4,219 views",
+      "subs": "19.8K"
+    },
+    {
+      "videoId": "nzC0BxkvdSk",
+      "title": "How to Create a Responsive Navigation Component in Framer | Framer Desktop, Tablet, Mobile Tutorial",
+      "views": "34,210 views",
+      "subs": "6.5K"
+    }
+  ],
+  "channelRank": {
+    "position": 11,
+    "videoId": "Wca4_dZgiVA",
+    "title": "How To Create A Hamburger Menu In Framer (Full Guide)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "Cz52GG0h9GI",
+      "title": "Framer for Beginners: Creating a Responsive Website Navigation",
+      "views": "105,423 views",
+      "subs": "82K"
+    },
+    {
+      "videoId": "juGpVLtDTdc",
+      "title": "Interactive Navigation Menu in Framer (No-code tutorial)",
+      "views": "92,906 views",
+      "subs": "6.8K"
+    },
+    {
+      "videoId": "P5H7zs0RsUM",
+      "title": "Learn Framer in 20 Minutes (Crash Course)",
+      "views": "1,011,962 views",
+      "subs": "1.1M"
+    },
+    {
+      "videoId": "cEamHEJYflI",
+      "title": "Adding Links in Framer (Fundamentals Lesson 15)",
+      "views": "73,471 views",
+      "subs": "359K"
+    },
+    {
+      "videoId": "nrICDRO1WYM",
+      "title": "Framer Fully Responsive Navbar (Only video you will ever need)",
+      "views": "10,822 views",
+      "subs": "16.6K"
+    }
+  ],
+  "channelRank": {
+    "position": 8,
+    "videoId": "0xitfVZ1VO8",
+    "title": "How To Link Navigation Bar In Framer (Full Guide)"
+  }
+}

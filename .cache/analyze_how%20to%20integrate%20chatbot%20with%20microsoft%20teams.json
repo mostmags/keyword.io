@@ -1,0 +1,36 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "_tyPH0_7Vsg",
+      "title": "🤖 CREATE A CHATBOT for Microsoft Teams in 5 MINUTES with Power Virtual Agents!",
+      "views": "98,101 views",
+      "subs": "8.8K"
+    },
+    {
+      "videoId": "HU5sAsD1DYw",
+      "title": "How to Deploy Azure AI Agent in Microsoft Teams | MS 365 Agent Toolkit CLI Tutorial",
+      "views": "14,432 views",
+      "subs": "14.1K"
+    },
+    {
+      "videoId": "tQ2T92K24N0",
+      "title": "Still Answering Manually? Build a Copilot Chatbot in Teams Without Coding",
+      "views": "30,899 views",
+      "subs": "342K"
+    },
+    {
+      "videoId": "viwFkooODts",
+      "title": "How to Connect Microsoft Teams to Claude | Claude AI Teams Integration Tutorial",
+      "views": "3,204 views",
+      "subs": "468"
+    },
+    {
+      "videoId": "4K4_r7dSmew",
+      "title": "How to Create AI Agents in Microsoft SharePoint & Teams",
+      "views": "237,579 views",
+      "subs": "4.4M"
+    }
+  ],
+  "channelRank": null
+}

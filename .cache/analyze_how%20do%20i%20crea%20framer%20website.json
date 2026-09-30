@@ -1,0 +1,36 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "P5H7zs0RsUM",
+      "title": "Learn Framer in 20 Minutes (Crash Course)",
+      "views": "1,011,968 views",
+      "subs": "1.1M"
+    },
+    {
+      "videoId": "zqDKPidfS1Q",
+      "title": "Framer Complete Tutorial For Beginners in Hindi | Peush Jha",
+      "views": "68,238 views",
+      "subs": "4.7K"
+    },
+    {
+      "videoId": "TsnUSZ64Rdw",
+      "title": "How to Build a Website with Framer (Step By Step Tutorial) (In Hindi)",
+      "views": "3,116 views",
+      "subs": "108"
+    },
+    {
+      "videoId": "LnmpY77Xo4E",
+      "title": "How to use Framer for Websites?",
+      "views": "120,744 views",
+      "subs": "729K"
+    },
+    {
+      "videoId": "mi8aR42MVbA",
+      "title": "How To Build A Website For Free With Framer (2026 Easy Guide)",
+      "views": "3,780 views",
+      "subs": "1.5K"
+    }
+  ],
+  "channelRank": null
+}

@@ -1,0 +1,40 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "ccRbK-uucSk",
+      "title": "Build an E-com Store with Framer CMS",
+      "views": "133,684 views",
+      "subs": "15.8K"
+    },
+    {
+      "videoId": "r57CLW6b2Pk",
+      "title": "How To Create Ecommerce Website In Framer (Full Guide)",
+      "views": "740 views",
+      "subs": "8.8K"
+    },
+    {
+      "videoId": "xKS1bCyGhtM",
+      "title": "Can Framer Handle E-Commerce?",
+      "views": "29,202 views",
+      "subs": "1.1M"
+    },
+    {
+      "videoId": "P5H7zs0RsUM",
+      "title": "Learn Framer in 20 Minutes (Crash Course)",
+      "views": "1,012,876 views",
+      "subs": "1.1M"
+    },
+    {
+      "videoId": "T5vWpBQRPuE",
+      "title": "Framer Tutorial: Build E-Commerce Sites in Framer (Shopify)",
+      "views": "31,881 views",
+      "subs": "19.8K"
+    }
+  ],
+  "channelRank": {
+    "position": 2,
+    "videoId": "r57CLW6b2Pk",
+    "title": "How To Create Ecommerce Website In Framer (Full Guide)"
+  }
+}

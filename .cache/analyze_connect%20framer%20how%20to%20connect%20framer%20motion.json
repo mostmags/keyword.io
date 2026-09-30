@@ -1,0 +1,36 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "2fuPLZdnKU8",
+      "title": "Connect Claude to Framer",
+      "views": "15,710 views",
+      "subs": "2K"
+    },
+    {
+      "videoId": "4UOSpoOoC3Y",
+      "title": "Connect Framer to Claude Code, ChatGPT Codex, Cursor, and more",
+      "views": "18,507 views",
+      "subs": "359K"
+    },
+    {
+      "videoId": "XZcl55VfjSA",
+      "title": "Connecting Framer to Claude (tutorial)",
+      "views": "15,581 views",
+      "subs": "19.8K"
+    },
+    {
+      "videoId": "sjErWiPhuIQ",
+      "title": "How To Connect Framer With Shopify In Minutes! | Framer Commerce",
+      "views": "3,169 views",
+      "subs": "2K"
+    },
+    {
+      "videoId": "9ue7EV6UTBE",
+      "title": "How to Connect Claude to Framer MCP in 1 Minute #framertutorial",
+      "views": "2,088 views",
+      "subs": "604"
+    }
+  ],
+  "channelRank": null
+}

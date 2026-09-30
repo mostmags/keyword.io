@@ -1,0 +1,36 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "rqH2nHHJ9UQ",
+      "title": "EMAIL... in Microsoft Teams",
+      "views": "83,041 views",
+      "subs": "414"
+    },
+    {
+      "videoId": "AC3psmRyqDg",
+      "title": "Getting to your Microsoft Teams email distribution list #Tips&Tricks",
+      "views": "39,895 views",
+      "subs": "3.6K"
+    },
+    {
+      "videoId": "UBU_sKBoBhM",
+      "title": "How to Find Microsoft Teams User ID",
+      "views": "11,501 views",
+      "subs": "2.2K"
+    },
+    {
+      "videoId": "YIrosyZE6Hg",
+      "title": "Microsoft Teams: How to find the email address for a channel",
+      "views": "819 views",
+      "subs": "54"
+    },
+    {
+      "videoId": "LkYs3ov918I",
+      "title": "Sending an e-mail to all Microsoft Team members",
+      "views": "45,552 views",
+      "subs": "62.5K"
+    }
+  ],
+  "channelRank": null
+}

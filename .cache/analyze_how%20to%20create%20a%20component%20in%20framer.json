@@ -1,0 +1,40 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "7LdaBIcgqzw",
+      "title": "Intro to Components in Framer (Fundamentals Lesson 21)",
+      "views": "77,701 views",
+      "subs": "359K"
+    },
+    {
+      "videoId": "WsxHKoRRev0",
+      "title": "Framer Masterclass: Learn Components in 30 Minutes",
+      "views": "64,569 views",
+      "subs": "82K"
+    },
+    {
+      "videoId": "7ZdwCujXm9U",
+      "title": "Framer Tutorial Creating  Button Component #framertutorial #framer",
+      "views": "2,872 views",
+      "subs": "604"
+    },
+    {
+      "videoId": "KjbMgYoV1Pk",
+      "title": "How To Create Button Component In Framer (Full Guide)",
+      "views": "1,732 views",
+      "subs": "8.8K"
+    },
+    {
+      "videoId": "CzeoKiy94e0",
+      "title": "How To Edit a Component In Framer (Full Guide)",
+      "views": "392 views",
+      "subs": "8.8K"
+    }
+  ],
+  "channelRank": {
+    "position": 4,
+    "videoId": "KjbMgYoV1Pk",
+    "title": "How To Create Button Component In Framer (Full Guide)"
+  }
+}

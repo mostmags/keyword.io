@@ -1,0 +1,36 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "VDDPoYOQYfM",
+      "title": "🏫 Microsoft Teams Tutorial in 10 min",
+      "views": "3,487,557 views",
+      "subs": "4.4M"
+    },
+    {
+      "videoId": "r3dpzqttDuA",
+      "title": "How to use the NEW Microsoft Planner in Teams",
+      "views": "801,773 views",
+      "subs": "1.2M"
+    },
+    {
+      "videoId": "vaeFzrIc9HU",
+      "title": "How to Use Microsoft Teams (Full Tutorial)",
+      "views": "108,673 views",
+      "subs": "4.4M"
+    },
+    {
+      "videoId": "BzhPPYtSKK0",
+      "title": "How to Manage Projects Like a Pro in Microsoft Teams",
+      "views": "863,683 views",
+      "subs": "55K"
+    },
+    {
+      "videoId": "o-0ZEoG_k94",
+      "title": "Teams Organizing Teams and Channels - Hide, Pin, and Rearrange",
+      "views": "64,058 views",
+      "subs": "100K"
+    }
+  ],
+  "channelRank": null
+}

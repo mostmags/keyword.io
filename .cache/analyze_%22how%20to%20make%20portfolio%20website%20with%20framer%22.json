@@ -1,0 +1,36 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "P5H7zs0RsUM",
+      "title": "Learn Framer in 20 Minutes (Crash Course)",
+      "views": "1,011,684 views",
+      "subs": "1.1M"
+    },
+    {
+      "videoId": "LnmpY77Xo4E",
+      "title": "How to use Framer for Websites?",
+      "views": "120,726 views",
+      "subs": "729K"
+    },
+    {
+      "videoId": "OMrEqbIFCts",
+      "title": "How to Create a Portfolio with Framer (2026) Step by Step",
+      "views": "13,146 views",
+      "subs": "103K"
+    },
+    {
+      "videoId": "mSmZdKPFl1o",
+      "title": "design with me 🥣 making a design portfolio website using Framer 👩🏻‍💻 💭",
+      "views": "122,476 views",
+      "subs": "81.4K"
+    },
+    {
+      "videoId": "RImCkKMDBJI",
+      "title": "How to build a UX design portfolio website with Framer (step by step tutorial)",
+      "views": "143,306 views",
+      "subs": "157K"
+    }
+  ],
+  "channelRank": null
+}

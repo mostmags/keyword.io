@@ -1,0 +1,40 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "KNI42efUYAw",
+      "title": "Framer Tutorial: No-Code Parallax Effect",
+      "views": "32,888 views",
+      "subs": "82K"
+    },
+    {
+      "videoId": "R4zyqApd9G0",
+      "title": "How To Create Parallax Effect In Framer (Full Guide)",
+      "views": "248 views",
+      "subs": "8.8K"
+    },
+    {
+      "videoId": "Bx4OlPCBWJc",
+      "title": "Framer Parallax Animation Tutorial",
+      "views": "61,901 views",
+      "subs": "1.1M"
+    },
+    {
+      "videoId": "kSryet3k_iQ",
+      "title": "Create a Parallax Scroll - Framer Tutorial",
+      "views": "11,001 views",
+      "subs": "106K"
+    },
+    {
+      "videoId": "1NxUO3AOImc",
+      "title": "Framer Tutorial: Image Sequence Scroll Animation (Step-by-Step)",
+      "views": "36,769 views",
+      "subs": "82K"
+    }
+  ],
+  "channelRank": {
+    "position": 2,
+    "videoId": "R4zyqApd9G0",
+    "title": "How To Create Parallax Effect In Framer (Full Guide)"
+  }
+}

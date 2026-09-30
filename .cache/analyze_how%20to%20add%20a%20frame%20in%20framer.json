@@ -1,0 +1,40 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "fQSWqKPNXb0",
+      "title": "Thinking in Frames (Fundamentals Lesson 4)",
+      "views": "77,079 views",
+      "subs": "359K"
+    },
+    {
+      "videoId": "0Dtzf-EBEoQ",
+      "title": "Adding Images, Videos, and Text in Framer (Fundamentals Lesson 12)",
+      "views": "97,570 views",
+      "subs": "359K"
+    },
+    {
+      "videoId": "rH5iIutBTwg",
+      "title": "Styling Frames in Framer (Fundamentals Lesson 16)",
+      "views": "31,283 views",
+      "subs": "359K"
+    },
+    {
+      "videoId": "NWRBa9a5jCo",
+      "title": "how to add frame in framer",
+      "views": "498 views",
+      "subs": "2.1K"
+    },
+    {
+      "videoId": "o5slvqAoy5s",
+      "title": "How To Add Overlay In Framer (Full Guide)",
+      "views": "1,446 views",
+      "subs": "8.8K"
+    }
+  ],
+  "channelRank": {
+    "position": 5,
+    "videoId": "o5slvqAoy5s",
+    "title": "How To Add Overlay In Framer (Full Guide)"
+  }
+}

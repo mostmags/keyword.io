@@ -1,0 +1,36 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "6pXsdCxy2Oo",
+      "title": "Framer for Beginners: The #1 Secret to a Responsive Site (2026)",
+      "views": "64,022 views",
+      "subs": "82K"
+    },
+    {
+      "videoId": "hHQNXEcR4O8",
+      "title": "Making Responsive Websites in Framer",
+      "views": "84,808 views",
+      "subs": "1.1M"
+    },
+    {
+      "videoId": "REhpndQmOM8",
+      "title": "Fixed, Relative, and Viewport Sizing in Framer (Fundamentals Lesson 10)",
+      "views": "77,822 views",
+      "subs": "359K"
+    },
+    {
+      "videoId": "yTFB9QXL_do",
+      "title": "Practice: Creating Breakpoints in Framer (Fundamentals Lesson 25)",
+      "views": "43,763 views",
+      "subs": "359K"
+    },
+    {
+      "videoId": "rEjd7QRxtDY",
+      "title": "Framer Breakpoints in 7 Minutes (Beginner Tutorial)",
+      "views": "51,973 views",
+      "subs": "163K"
+    }
+  ],
+  "channelRank": null
+}

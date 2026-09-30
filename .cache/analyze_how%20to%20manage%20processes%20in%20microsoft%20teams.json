@@ -1,0 +1,36 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "_XYQRDfHXP4",
+      "title": "The Problem with Process Management in M365",
+      "views": "20,273 views",
+      "subs": "55K"
+    },
+    {
+      "videoId": "gpUCkzn0VLg",
+      "title": "How to use Workflows in Microsoft Teams",
+      "views": "138,005 views",
+      "subs": "186K"
+    },
+    {
+      "videoId": "z6IUiamE3-U",
+      "title": "How to Use Microsoft Teams Effectively | Your COMPLETE Guide",
+      "views": "2,116,940 views",
+      "subs": "3.1M"
+    },
+    {
+      "videoId": "WwCNXvORqJc",
+      "title": "Microsoft Teams | How to Create Workflows in Teams",
+      "views": "136,411 views",
+      "subs": "92K"
+    },
+    {
+      "videoId": "sKhykLoFk9g",
+      "title": "How to automate tasks and processes in Microsoft Teams with Rules",
+      "views": "1,435 views",
+      "subs": "19.8K"
+    }
+  ],
+  "channelRank": null
+}

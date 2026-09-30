@@ -1,0 +1,40 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "jBu7mK-cBXY",
+      "title": "How To Edit CMS In Framer (Full Guide)",
+      "views": "48 views",
+      "subs": "8.8K"
+    },
+    {
+      "videoId": "cHJPudv5dbY",
+      "title": "Learn The Framer CMS in 26 Minutes",
+      "views": "113,804 views",
+      "subs": "82K"
+    },
+    {
+      "videoId": "pz4_EAUNxEY",
+      "title": "Learn the Framer CMS in 10 minutes! (Crash Course)",
+      "views": "41,415 views",
+      "subs": "19.8K"
+    },
+    {
+      "videoId": "Uc2AfXYzz9g",
+      "title": "Learn Framer CMS in 7 Minutes (Beginner Tutorial)",
+      "views": "4,728 views",
+      "subs": "204K"
+    },
+    {
+      "videoId": "tnEJHVkXjjs",
+      "title": "CMS Pages & Dynamic Content in Framer (CMS Lesson 3)",
+      "views": "60,453 views",
+      "subs": "359K"
+    }
+  ],
+  "channelRank": {
+    "position": 1,
+    "videoId": "jBu7mK-cBXY",
+    "title": "How To Edit CMS In Framer (Full Guide)"
+  }
+}

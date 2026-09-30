@@ -1,0 +1,36 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "zDCbzaGvMmI",
+      "title": "6 Simple Ways to Animate Your Framer Site",
+      "views": "115,148 views",
+      "subs": "82K"
+    },
+    {
+      "videoId": "1yhwglXdDjQ",
+      "title": "Bringing websites to life with animation in Framer (Animation Lesson 1)",
+      "views": "79,582 views",
+      "subs": "359K"
+    },
+    {
+      "videoId": "1NxUO3AOImc",
+      "title": "Framer Tutorial: Image Sequence Scroll Animation (Step-by-Step)",
+      "views": "36,567 views",
+      "subs": "82K"
+    },
+    {
+      "videoId": "P5H7zs0RsUM",
+      "title": "Learn Framer in 20 Minutes (Crash Course)",
+      "views": "1,011,684 views",
+      "subs": "1.1M"
+    },
+    {
+      "videoId": "m4NrsF5ejN8",
+      "title": "From Zero to Pro: Framer Animations Explained",
+      "views": "1,390 views",
+      "subs": "4.5K"
+    }
+  ],
+  "channelRank": null
+}

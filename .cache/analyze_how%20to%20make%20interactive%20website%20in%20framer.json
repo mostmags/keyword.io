@@ -1,0 +1,36 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "P5H7zs0RsUM",
+      "title": "Learn Framer in 20 Minutes (Crash Course)",
+      "views": "1,011,583 views",
+      "subs": "1.1M"
+    },
+    {
+      "videoId": "LnmpY77Xo4E",
+      "title": "How to use Framer for Websites?",
+      "views": "120,726 views",
+      "subs": "729K"
+    },
+    {
+      "videoId": "9qZvkIGuHRM",
+      "title": "Building Your First Site From Scratch in Framer (2026)",
+      "views": "110,654 views",
+      "subs": "82K"
+    },
+    {
+      "videoId": "1NxUO3AOImc",
+      "title": "Framer Tutorial: Image Sequence Scroll Animation (Step-by-Step)",
+      "views": "36,559 views",
+      "subs": "82K"
+    },
+    {
+      "videoId": "6pXsdCxy2Oo",
+      "title": "Framer for Beginners: The #1 Secret to a Responsive Site (2026)",
+      "views": "63,949 views",
+      "subs": "82K"
+    }
+  ],
+  "channelRank": null
+}

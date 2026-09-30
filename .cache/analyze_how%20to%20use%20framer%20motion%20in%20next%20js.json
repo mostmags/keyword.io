@@ -1,0 +1,36 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "aqdMkLOb8oE",
+      "title": "Framer Motion in Next.js 🚀 Master Animation in One Video in Hindi",
+      "views": "9,312 views",
+      "subs": "751K"
+    },
+    {
+      "videoId": "e_VgemFfGHo",
+      "title": "How to use Framer motion in Next.js 14?",
+      "views": "11,478 views",
+      "subs": "13.9K"
+    },
+    {
+      "videoId": "JALCoY9MQg8",
+      "title": "Framer Motion Tutorial – Master React Animations (Beginner to Advanced)",
+      "views": "144,432 views",
+      "subs": "737K"
+    },
+    {
+      "videoId": "VzCc-bUbK34",
+      "title": "Animate Your Next.js App With Framer Motion | Step-by-Step Tutorial",
+      "views": "2,575 views",
+      "subs": "2.6K"
+    },
+    {
+      "videoId": "9-fO_2xTpgY",
+      "title": "React Animation Course with Motion - Become an Animations Pro in 1 Hour",
+      "views": "82,098 views",
+      "subs": "292K"
+    }
+  ],
+  "channelRank": null
+}

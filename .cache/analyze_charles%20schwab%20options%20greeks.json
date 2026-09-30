@@ -1,0 +1,36 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "jN4QODy000Y",
+      "title": "Meet the Options Greeks",
+      "views": "52,658 views",
+      "subs": "552K"
+    },
+    {
+      "videoId": "8107gb50UOY",
+      "title": "Option Greeks for Beginners: Delta, Gamma, Theta, Vega - and Even Rho - Explained",
+      "views": "4,980 views",
+      "subs": "212K"
+    },
+    {
+      "videoId": "rbdxwanAwP8",
+      "title": "Lesson 5 of 10: The Vital Role of Options Pricing & The Greeks | Getting Started with Options",
+      "views": "16,477 views",
+      "subs": "212K"
+    },
+    {
+      "videoId": "It-MV1nVP88",
+      "title": "Options Strategies Virtual Workshop | Options Basics + Greeks | 6-8-26",
+      "views": "5,346 views",
+      "subs": "212K"
+    },
+    {
+      "videoId": "rQ0qhn2GROQ",
+      "title": "Option Greeks Explained | L-02 | Option Trading Delta Gamma theta Vega Rho | FREE Trading Course",
+      "views": "800,184 views",
+      "subs": "5.2M"
+    }
+  ],
+  "channelRank": null
+}

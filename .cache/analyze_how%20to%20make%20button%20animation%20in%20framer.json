@@ -1,0 +1,40 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "OSg3CNwRWXs",
+      "title": "Animated Buttons in Framer (Step-by-Step Tutorial)",
+      "views": "3,291 views",
+      "subs": "5.6K"
+    },
+    {
+      "videoId": "lX99y0kqAEE",
+      "title": "How To Animate Button In Framer (Full Guide)",
+      "views": "359 views",
+      "subs": "8.8K"
+    },
+    {
+      "videoId": "SVBK1gAZS1k",
+      "title": "Animated Rainbow Button Component in Framer | Step-by-Step No-code Tutorial",
+      "views": "7,938 views",
+      "subs": "6.8K"
+    },
+    {
+      "videoId": "YZiQob6zLT8",
+      "title": "Interactive Buttons in Framer | Step-by-Step No-code Tutorial",
+      "views": "65,805 views",
+      "subs": "6.8K"
+    },
+    {
+      "videoId": "T-2jliitju4",
+      "title": "Cool Hover Effects In Framer Tutorial",
+      "views": "71,702 views",
+      "subs": "1.1M"
+    }
+  ],
+  "channelRank": {
+    "position": 2,
+    "videoId": "lX99y0kqAEE",
+    "title": "How To Animate Button In Framer (Full Guide)"
+  }
+}

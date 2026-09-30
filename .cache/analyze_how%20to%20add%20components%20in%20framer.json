@@ -1,0 +1,40 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "7LdaBIcgqzw",
+      "title": "Intro to Components in Framer (Fundamentals Lesson 21)",
+      "views": "77,740 views",
+      "subs": "359K"
+    },
+    {
+      "videoId": "WsxHKoRRev0",
+      "title": "Framer Masterclass: Learn Components in 30 Minutes",
+      "views": "64,574 views",
+      "subs": "82K"
+    },
+    {
+      "videoId": "phPksnJx-ac",
+      "title": "How To Add Code Component In Framer (Full Guide)",
+      "views": "4,621 views",
+      "subs": "8.8K"
+    },
+    {
+      "videoId": "tsqActWJPZk",
+      "title": "How To Add Custom Code Component In Framer (2026) (Best Method)",
+      "views": "183 views",
+      "subs": "18.5K"
+    },
+    {
+      "videoId": "g4kYW1EsYE4",
+      "title": "How To PASTE COMPONENTS In Framer (QUICK & EASY) 2026",
+      "views": "1,182 views",
+      "subs": "29.2K"
+    }
+  ],
+  "channelRank": {
+    "position": 3,
+    "videoId": "phPksnJx-ac",
+    "title": "How To Add Code Component In Framer (Full Guide)"
+  }
+}

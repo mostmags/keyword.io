@@ -1,0 +1,40 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "Ya9oHtLEUMw",
+      "title": "Framer tutorial: Add background videos",
+      "views": "32,845 views",
+      "subs": "19.8K"
+    },
+    {
+      "videoId": "o1aWhxassTA",
+      "title": "How To Add Video Backgrounds in Framer",
+      "views": "10,904 views",
+      "subs": "3.5K"
+    },
+    {
+      "videoId": "FlQiUijui2I",
+      "title": "How to Add Background Videos in Framer (2026 Full Guide)",
+      "views": "325 views",
+      "subs": "3.4K"
+    },
+    {
+      "videoId": "M6ImJcQzhgg",
+      "title": "How To Add Background Video In Framer (Full Guide)",
+      "views": "467 views",
+      "subs": "8.8K"
+    },
+    {
+      "videoId": "lS2Wf3hJhQo",
+      "title": "How To Add Video Background In Framer (2026 Easy Guide)",
+      "views": "36 views",
+      "subs": "1.5K"
+    }
+  ],
+  "channelRank": {
+    "position": 4,
+    "videoId": "M6ImJcQzhgg",
+    "title": "How To Add Background Video In Framer (Full Guide)"
+  }
+}

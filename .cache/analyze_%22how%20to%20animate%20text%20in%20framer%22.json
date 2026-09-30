@@ -1,0 +1,36 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "yxQhLc1AsdY",
+      "title": "Animating text in Framer (Animation Lesson 17)",
+      "views": "20,780 views",
+      "subs": "359K"
+    },
+    {
+      "videoId": "4PTJoajt_14",
+      "title": "Creating a Text Cycle Animation in Framer (Looping Method)",
+      "views": "22,154 views",
+      "subs": "82K"
+    },
+    {
+      "videoId": "zE-R3HKe3Wc",
+      "title": "6 Text Animations You Need to Know in Framer",
+      "views": "26,282 views",
+      "subs": "82K"
+    },
+    {
+      "videoId": "eIthPzF_k5E",
+      "title": "Text Animation & Scroll Animation - Framer for Beginners | No-code Tutorial",
+      "views": "31,303 views",
+      "subs": "6.8K"
+    },
+    {
+      "videoId": "Zf2ZgKcoC5w",
+      "title": "Framer Tutorial: Creating A Text Reveal Scroll Animation (No-Code)",
+      "views": "46,721 views",
+      "subs": "82K"
+    }
+  ],
+  "channelRank": null
+}

@@ -1,0 +1,36 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "4xTZwaxAk1I",
+      "title": "Create responsive Components | No Extra Variants",
+      "views": "2,221 views",
+      "subs": "2K"
+    },
+    {
+      "videoId": "yTFB9QXL_do",
+      "title": "Practice: Creating Breakpoints in Framer (Fundamentals Lesson 25)",
+      "views": "43,763 views",
+      "subs": "359K"
+    },
+    {
+      "videoId": "7LdaBIcgqzw",
+      "title": "Intro to Components in Framer (Fundamentals Lesson 21)",
+      "views": "77,841 views",
+      "subs": "359K"
+    },
+    {
+      "videoId": "REhpndQmOM8",
+      "title": "Fixed, Relative, and Viewport Sizing in Framer (Fundamentals Lesson 10)",
+      "views": "77,822 views",
+      "subs": "359K"
+    },
+    {
+      "videoId": "WsxHKoRRev0",
+      "title": "Framer Masterclass: Learn Components in 30 Minutes",
+      "views": "64,617 views",
+      "subs": "82K"
+    }
+  ],
+  "channelRank": null
+}

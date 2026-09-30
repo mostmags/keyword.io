@@ -1,0 +1,40 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "K3aSfae5T8w",
+      "title": "How to Animate Icons in Framer (Step By Step) (2026 Guide)",
+      "views": "113 views",
+      "subs": "1.2K"
+    },
+    {
+      "videoId": "C81XArX57Hk",
+      "title": "how to animate icons in @framer (easy method)",
+      "views": "3,641 views",
+      "subs": "82K"
+    },
+    {
+      "videoId": "IebxU4aRS68",
+      "title": "Animating Icons on Hover (Framer Tutorial)",
+      "views": "16,393 views",
+      "subs": "82K"
+    },
+    {
+      "videoId": "_4w5jMA-DhM",
+      "title": "Scroll Triggered Navbar Logo Animation in Framer",
+      "views": "1,891 views",
+      "subs": "1.6K"
+    },
+    {
+      "videoId": "1NxUO3AOImc",
+      "title": "Framer Tutorial: Image Sequence Scroll Animation (Step-by-Step)",
+      "views": "36,559 views",
+      "subs": "82K"
+    }
+  ],
+  "channelRank": {
+    "position": 8,
+    "videoId": "jsC8wQvf5sc",
+    "title": "How To Add Logo In Framer (Full Guide)"
+  }
+}

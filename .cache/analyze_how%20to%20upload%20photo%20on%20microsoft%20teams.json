@@ -1,0 +1,40 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "s6BS2CBo0UI",
+      "title": "How to upload a picture to Teams!",
+      "views": "1,661 views",
+      "subs": "403"
+    },
+    {
+      "videoId": "zNFMJxjjgKw",
+      "title": "How to Add or Change your Profile Picture in Teams",
+      "views": "48,031 views",
+      "subs": "100K"
+    },
+    {
+      "videoId": "Yu6v8EIgY2g",
+      "title": "Share Photos in Microsoft Teams Chats (Quick & Easy Tutorial)",
+      "views": "2,355 views",
+      "subs": "4.2K"
+    },
+    {
+      "videoId": "EEGySp_W38g",
+      "title": "How to upload photos to Microsoft Teams",
+      "views": "1,475 views",
+      "subs": "167"
+    },
+    {
+      "videoId": "0sDQbtoAb2U",
+      "title": "How to Add Profile Photo in Microsoft Teams (Full Guide)",
+      "views": "367 views",
+      "subs": "8.8K"
+    }
+  ],
+  "channelRank": {
+    "position": 5,
+    "videoId": "0sDQbtoAb2U",
+    "title": "How to Add Profile Photo in Microsoft Teams (Full Guide)"
+  }
+}

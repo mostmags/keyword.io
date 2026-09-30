@@ -1,0 +1,36 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "REhpndQmOM8",
+      "title": "Fixed, Relative, and Viewport Sizing in Framer (Fundamentals Lesson 10)",
+      "views": "77,752 views",
+      "subs": "359K"
+    },
+    {
+      "videoId": "5DYSoL26oeM",
+      "title": "Sizing to Fill and Fit Content in Framer (Fundamentals Lesson 7)",
+      "views": "72,663 views",
+      "subs": "359K"
+    },
+    {
+      "videoId": "0o3RDHDkmHY",
+      "title": "How To RESIZE In Framer (QUICK & EASY) 2026",
+      "views": "27 views",
+      "subs": "29.2K"
+    },
+    {
+      "videoId": "NJKKqYbYeVE",
+      "title": "Min and Max Sizing in Framer (Fundamentals Lesson 11)",
+      "views": "38,326 views",
+      "subs": "359K"
+    },
+    {
+      "videoId": "jQoR0dQQ9XY",
+      "title": "Stacks and Relative Positioning in Framer (Fundamentals Lesson 6)",
+      "views": "98,642 views",
+      "subs": "359K"
+    }
+  ],
+  "channelRank": null
+}

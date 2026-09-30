@@ -1,0 +1,36 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "JALCoY9MQg8",
+      "title": "Framer Motion Tutorial – Master React Animations (Beginner to Advanced)",
+      "views": "144,374 views",
+      "subs": "737K"
+    },
+    {
+      "videoId": "FMA79Lnzefc",
+      "title": "Framer Motion Basics: Getting Started with React Animations | EP - 1 | Manu Arora",
+      "views": "31,150 views",
+      "subs": "33.1K"
+    },
+    {
+      "videoId": "ITsJO1f7VI8",
+      "title": "Framer Motion Tutorial – Master React Animations (Beginner to Advanced) 2 Hours",
+      "views": "1,689 views",
+      "subs": "46.6K"
+    },
+    {
+      "videoId": "q9tpBtvTTz8",
+      "title": "Animation & Page Transitions Next.js with Framer Motion",
+      "views": "69,639 views",
+      "subs": "35.5K"
+    },
+    {
+      "videoId": "aqdMkLOb8oE",
+      "title": "Framer Motion in Next.js 🚀 Master Animation in One Video in Hindi",
+      "views": "9,306 views",
+      "subs": "751K"
+    }
+  ],
+  "channelRank": null
+}

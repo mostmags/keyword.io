@@ -1,0 +1,40 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "6Hm_F1z8FSA",
+      "title": "How to Publish Framer Website for FREE (2026) | Host Framer Website",
+      "views": "185 views",
+      "subs": "10.3K"
+    },
+    {
+      "videoId": "daGtzpTGS5w",
+      "title": "Stop Paying for Framer - Export Your Site to HTML & Host for Free",
+      "views": "2,298 views",
+      "subs": "3.2K"
+    },
+    {
+      "videoId": "2msLDDqAZpM",
+      "title": "How to host your Webflow/Framer site with CMS for FREE on Cloudflare. No code required",
+      "views": "9,390 views",
+      "subs": "132"
+    },
+    {
+      "videoId": "lU_C3aoWSdQ",
+      "title": "How to Host Framer Website on Your Custom Domain for FREE",
+      "views": "2,357 views",
+      "subs": "153"
+    },
+    {
+      "videoId": "ajxeM_YGq7c",
+      "title": "How To Export Framer Website (Full Guide)",
+      "views": "6,860 views",
+      "subs": "8.8K"
+    }
+  ],
+  "channelRank": {
+    "position": 5,
+    "videoId": "ajxeM_YGq7c",
+    "title": "How To Export Framer Website (Full Guide)"
+  }
+}

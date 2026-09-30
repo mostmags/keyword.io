@@ -1,0 +1,40 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "KfycpnA2mCM",
+      "title": "How To Make a Pop-Up Calendar in Framer",
+      "views": "4,110 views",
+      "subs": "2K"
+    },
+    {
+      "videoId": "bubVC0O8KM8",
+      "title": "How To Add A Calendar To Framer (2026) (Step By Step)",
+      "views": "71 views",
+      "subs": "18.5K"
+    },
+    {
+      "videoId": "ufOoZxEc5zI",
+      "title": "How to Add a Calendar to Framer (Step By Step) (2026 Guide)",
+      "views": "677 views",
+      "subs": "1.2K"
+    },
+    {
+      "videoId": "luID4QvlldA",
+      "title": "How To Add Calendar In Framer (Full Guide)",
+      "views": "596 views",
+      "subs": "8.8K"
+    },
+    {
+      "videoId": "bSLZ2in2cK8",
+      "title": "How to add Calendly to Framer (Scheduling Made Simple)",
+      "views": "1,279 views",
+      "subs": "7.7K"
+    }
+  ],
+  "channelRank": {
+    "position": 4,
+    "videoId": "luID4QvlldA",
+    "title": "How To Add Calendar In Framer (Full Guide)"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "y-aYzGdlM-8",
+      "title": "Lec 11: K-Map Minimization Explained | Introduction to Karnaugh Map | Digital Electronics",
+      "views": "1,280,235 views",
+      "subs": "2.8M"
+    },
+    {
+      "videoId": "JRR8RCKMKjA",
+      "title": "What is K-Map? full Explanation | Karnaugh Map",
+      "views": "2,992,083 views",
+      "subs": "2.4M"
+    },
+    {
+      "videoId": "RO5alU6PpSU",
+      "title": "Introduction to Karnaugh Maps - Combinational Logic Circuits, Functions, & Truth Tables",
+      "views": "3,318,034 views",
+      "subs": "11M"
+    },
+    {
+      "videoId": "i5QjUVgY-XU",
+      "title": "SOP AND POS WITH K-MAP  - Minimize SOP and POS with K-map solved examples - Hindi",
+      "views": "2,093,467 views",
+      "subs": "98.2K"
+    },
+    {
+      "videoId": "x-_F-gRSBQ4",
+      "title": "Karnaugh Map | K-Map in HINDI|Zeenat Hasan Academy",
+      "views": "1,129,304 views",
+      "subs": "264K"
+    }
+  ],
+  "channelRank": null
+}

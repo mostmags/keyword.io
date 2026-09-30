@@ -1,0 +1,40 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "CzeoKiy94e0",
+      "title": "How To Edit a Component In Framer (Full Guide)",
+      "views": "400 views",
+      "subs": "8.8K"
+    },
+    {
+      "videoId": "7LdaBIcgqzw",
+      "title": "Intro to Components in Framer (Fundamentals Lesson 21)",
+      "views": "77,841 views",
+      "subs": "359K"
+    },
+    {
+      "videoId": "WsxHKoRRev0",
+      "title": "Framer Masterclass: Learn Components in 30 Minutes",
+      "views": "64,617 views",
+      "subs": "82K"
+    },
+    {
+      "videoId": "Sfy5wG5ZB3A",
+      "title": "Mastering Framer Components | Variants & Variables",
+      "views": "29,052 views",
+      "subs": "446K"
+    },
+    {
+      "videoId": "n46-q36TEZo",
+      "title": "How to Edit a Framer Template | No Code Website",
+      "views": "64,795 views",
+      "subs": "62.5K"
+    }
+  ],
+  "channelRank": {
+    "position": 1,
+    "videoId": "CzeoKiy94e0",
+    "title": "How To Edit a Component In Framer (Full Guide)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "bTcodbNtH_Q",
+      "title": "Building 3D Websites With Spline and Framer (No-Code)",
+      "views": "87,268 views",
+      "subs": "82K"
+    },
+    {
+      "videoId": "mcmM345594s",
+      "title": "How To Add 3D Spline Objects In Framer Easily | Quick Tutorial",
+      "views": "3,511 views",
+      "subs": "2K"
+    },
+    {
+      "videoId": "9-jdB6bCVr4",
+      "title": "I Made Interactive 3D Website in 10 Minutes (Spline + Framer)",
+      "views": "6,262 views",
+      "subs": "24.3K"
+    },
+    {
+      "videoId": "oA2r11E4jiI",
+      "title": "How to Add 3D Elements in Framer using Spline (2026 Full Guide)",
+      "views": "268 views",
+      "subs": "3.4K"
+    },
+    {
+      "videoId": "BNYLKuIlazA",
+      "title": "Build a 3D Site in Framer & Spline",
+      "views": "70,491 views",
+      "subs": "1.1M"
+    }
+  ],
+  "channelRank": {
+    "position": 8,
+    "videoId": "x3RsuYRyuzM",
+    "title": "How To Embed Spline In Framer (Full Guide)"
+  }
+}

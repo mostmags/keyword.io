@@ -1,0 +1,36 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "cHJPudv5dbY",
+      "title": "Learn The Framer CMS in 26 Minutes",
+      "views": "113,804 views",
+      "subs": "82K"
+    },
+    {
+      "videoId": "jYBfhYmodO8",
+      "title": "Learn Framer CMS from Scratch in Hindi | Framer CMS Basics",
+      "views": "7,050 views",
+      "subs": "4.7K"
+    },
+    {
+      "videoId": "Uc2AfXYzz9g",
+      "title": "Learn Framer CMS in 7 Minutes (Beginner Tutorial)",
+      "views": "4,728 views",
+      "subs": "204K"
+    },
+    {
+      "videoId": "k1BUaUMc52M",
+      "title": "What is the Framer CMS? (CMS Lesson 1)",
+      "views": "38,133 views",
+      "subs": "359K"
+    },
+    {
+      "videoId": "9vhcUgA_hYU",
+      "title": "Want to Master Framer CMS in 26 Minutes? Watch This Now",
+      "views": "3,912 views",
+      "subs": "4.5K"
+    }
+  ],
+  "channelRank": null
+}

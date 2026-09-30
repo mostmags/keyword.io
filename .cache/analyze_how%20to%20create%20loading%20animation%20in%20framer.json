@@ -1,0 +1,40 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "Ts8mA9_uwlM",
+      "title": "Framer Tutorial: Creating Smooth Website Loading Animations",
+      "views": "97,104 views",
+      "subs": "82K"
+    },
+    {
+      "videoId": "e436G4aJ008",
+      "title": "Create a Page Loading Animation in Framer (tutorial)",
+      "views": "7,632 views",
+      "subs": "19.8K"
+    },
+    {
+      "videoId": "RZe_3N4t9jA",
+      "title": "How to: Add Custom Preloader Animation to your Framer Website",
+      "views": "18,888 views",
+      "subs": "6.1K"
+    },
+    {
+      "videoId": "4PTJoajt_14",
+      "title": "Creating a Text Cycle Animation in Framer (Looping Method)",
+      "views": "22,154 views",
+      "subs": "82K"
+    },
+    {
+      "videoId": "0t1NCwLZ9eI",
+      "title": "How To Create Preloader Screen In Framer (Full Guide)",
+      "views": "233 views",
+      "subs": "8.8K"
+    }
+  ],
+  "channelRank": {
+    "position": 5,
+    "videoId": "0t1NCwLZ9eI",
+    "title": "How To Create Preloader Screen In Framer (Full Guide)"
+  }
+}

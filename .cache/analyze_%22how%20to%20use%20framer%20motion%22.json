@@ -1,0 +1,36 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "ip_A0lOyRbM",
+      "title": "Nextjs Framer Motion Hindi Part - 1",
+      "views": "240 views",
+      "subs": "3.4K"
+    },
+    {
+      "videoId": "0Ysyc5-uiDc",
+      "title": "How to Use Framer Motion - Easy Guide",
+      "views": "1 view",
+      "subs": "605"
+    },
+    {
+      "videoId": "8MX1TyRU8Ek",
+      "title": "Framer Motion React Tutorial in Hindi 2025 #5 || Animate Presence in Framer  Motion",
+      "views": "708 views",
+      "subs": "675"
+    },
+    {
+      "videoId": "e_VgemFfGHo",
+      "title": "How to use Framer motion in Next.js 14?",
+      "views": "11,476 views",
+      "subs": "13.9K"
+    },
+    {
+      "videoId": "xUzht3hJCaI",
+      "title": "How to Use Framer Motion in React JS Website",
+      "views": "535 views",
+      "subs": "12.1K"
+    }
+  ],
+  "channelRank": null
+}

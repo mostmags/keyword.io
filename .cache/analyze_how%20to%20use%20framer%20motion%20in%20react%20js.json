@@ -1,0 +1,36 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "JALCoY9MQg8",
+      "title": "Framer Motion Tutorial – Master React Animations (Beginner to Advanced)",
+      "views": "144,432 views",
+      "subs": "737K"
+    },
+    {
+      "videoId": "aqdMkLOb8oE",
+      "title": "Framer Motion in Next.js 🚀 Master Animation in One Video in Hindi",
+      "views": "9,312 views",
+      "subs": "751K"
+    },
+    {
+      "videoId": "ITsJO1f7VI8",
+      "title": "Framer Motion Tutorial – Master React Animations (Beginner to Advanced) 2 Hours",
+      "views": "1,698 views",
+      "subs": "46.6K"
+    },
+    {
+      "videoId": "9-fO_2xTpgY",
+      "title": "React Animation Course with Motion - Become an Animations Pro in 1 Hour",
+      "views": "82,098 views",
+      "subs": "292K"
+    },
+    {
+      "videoId": "syHGmY75pfs",
+      "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+      "views": "225,345 views",
+      "subs": "737K"
+    }
+  ],
+  "channelRank": null
+}

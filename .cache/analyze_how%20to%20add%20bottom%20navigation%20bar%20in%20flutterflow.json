@@ -1,0 +1,36 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "Qhe8X5ykK54",
+      "title": "Nav Bar | FlutterFlow University",
+      "views": "73,355 views",
+      "subs": "124K"
+    },
+    {
+      "videoId": "mDg9sUsG0co",
+      "title": "FlutterFlow - Best Way To Add Custom Navbar",
+      "views": "11,944 views",
+      "subs": "3K"
+    },
+    {
+      "videoId": "ZKuY8TCWhIg",
+      "title": "IMPLEMENT BOTTOM NAVIGATION BAR IN FLUTTER FLOW || JOOKATE'S FLUTTER",
+      "views": "9,477 views",
+      "subs": "870"
+    },
+    {
+      "videoId": "EeCPWfE4LP4",
+      "title": "How to Add Navigation Bar in FlutterFlow [2026 Guide]",
+      "views": "135 views",
+      "subs": "2.2K"
+    },
+    {
+      "videoId": "ESKmMtG-zYY",
+      "title": "How To Add a Nav Bar To Your FlutterFlow Project | FlutterFlow Tutorial",
+      "views": "56,173 views",
+      "subs": "124K"
+    }
+  ],
+  "channelRank": null
+}

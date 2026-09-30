@@ -1,0 +1,40 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "7LdaBIcgqzw",
+      "title": "Intro to Components in Framer (Fundamentals Lesson 21)",
+      "views": "77,740 views",
+      "subs": "359K"
+    },
+    {
+      "videoId": "WsxHKoRRev0",
+      "title": "Framer Masterclass: Learn Components in 30 Minutes",
+      "views": "64,581 views",
+      "subs": "82K"
+    },
+    {
+      "videoId": "5wma6Ux3zRg",
+      "title": "Framer Components Explained - In 18 Minutes",
+      "views": "2,495 views",
+      "subs": "19.8K"
+    },
+    {
+      "videoId": "P5H7zs0RsUM",
+      "title": "Learn Framer in 20 Minutes (Crash Course)",
+      "views": "1,011,951 views",
+      "subs": "1.1M"
+    },
+    {
+      "videoId": "Tn2ZdyMqh9s",
+      "title": "Master Framer Components – Step-by-Step Beginner Tutorial",
+      "views": "798 views",
+      "subs": "385"
+    }
+  ],
+  "channelRank": {
+    "position": 8,
+    "videoId": "CzeoKiy94e0",
+    "title": "How To Edit a Component In Framer (Full Guide)"
+  }
+}

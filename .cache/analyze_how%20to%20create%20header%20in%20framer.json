@@ -1,0 +1,40 @@
+{
+  "isUnique": false,
+  "videos": [
+    {
+      "videoId": "0Ls5HHIXigY",
+      "title": "How to Create a Sticky Header in Framer",
+      "views": "58,494 views",
+      "subs": "2.2K"
+    },
+    {
+      "videoId": "DYQIZrbfwO0",
+      "title": "Build an Interactive Header in Framer From Scratch Navbar | Framer Header | Jabir Ahamed | #1",
+      "views": "1,036 views",
+      "subs": "95"
+    },
+    {
+      "videoId": "9qXWEoX12KY",
+      "title": "How To MAKE HEADER In Framer (QUICK & EASY) 2026",
+      "views": "525 views",
+      "subs": "29.2K"
+    },
+    {
+      "videoId": "nrICDRO1WYM",
+      "title": "Framer Fully Responsive Navbar (Only video you will ever need)",
+      "views": "10,870 views",
+      "subs": "16.6K"
+    },
+    {
+      "videoId": "Cz52GG0h9GI",
+      "title": "Framer for Beginners: Creating a Responsive Website Navigation",
+      "views": "105,514 views",
+      "subs": "82K"
+    }
+  ],
+  "channelRank": {
+    "position": 8,
+    "videoId": "PrSHzKgBoCU",
+    "title": "How To Create Sticky Header In Framer (Full Guide)"
+  }
+}

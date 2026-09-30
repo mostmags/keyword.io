@@ -1,0 +1,40 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "yTFB9QXL_do",
+      "title": "Practice: Creating Breakpoints in Framer (Fundamentals Lesson 25)",
+      "views": "43,690 views",
+      "subs": "359K"
+    },
+    {
+      "videoId": "rEjd7QRxtDY",
+      "title": "Framer Breakpoints in 7 Minutes (Beginner Tutorial)",
+      "views": "51,964 views",
+      "subs": "163K"
+    },
+    {
+      "videoId": "MIXL_T1XtKE",
+      "title": "How To Add Breakpoints In Framer (Full Guide)",
+      "views": "76 views",
+      "subs": "8.8K"
+    },
+    {
+      "videoId": "JkpMMp2vl24",
+      "title": "Framer Breakpoints in 14 Minutes (Crash Course)",
+      "views": "3,206 views",
+      "subs": "19.8K"
+    },
+    {
+      "videoId": "xtJ1bxAi8Eo",
+      "title": "How to Create Breakpoints in Framer (2026 Full Guide)",
+      "views": "52 views",
+      "subs": "3.4K"
+    }
+  ],
+  "channelRank": {
+    "position": 3,
+    "videoId": "MIXL_T1XtKE",
+    "title": "How To Add Breakpoints In Framer (Full Guide)"
+  }
+}

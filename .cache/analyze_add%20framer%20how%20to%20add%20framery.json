@@ -1,0 +1,40 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "fQSWqKPNXb0",
+      "title": "Thinking in Frames (Fundamentals Lesson 4)",
+      "views": "77,079 views",
+      "subs": "359K"
+    },
+    {
+      "videoId": "cEamHEJYflI",
+      "title": "Adding Links in Framer (Fundamentals Lesson 15)",
+      "views": "73,436 views",
+      "subs": "359K"
+    },
+    {
+      "videoId": "lwV77Jq2oCQ",
+      "title": "Publishing and connecting a domain in Framer",
+      "views": "66,511 views",
+      "subs": "359K"
+    },
+    {
+      "videoId": "0Dtzf-EBEoQ",
+      "title": "Adding Images, Videos, and Text in Framer (Fundamentals Lesson 12)",
+      "views": "97,570 views",
+      "subs": "359K"
+    },
+    {
+      "videoId": "jQoR0dQQ9XY",
+      "title": "Stacks and Relative Positioning in Framer (Fundamentals Lesson 6)",
+      "views": "98,642 views",
+      "subs": "359K"
+    }
+  ],
+  "channelRank": {
+    "position": 7,
+    "videoId": "mVMR7tpXM6o",
+    "title": "How To Add New Page In Framer (Full Guide)"
+  }
+}

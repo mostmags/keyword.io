@@ -1,0 +1,36 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "Ve5BrWUF79A",
+      "title": "Charles Schwab Investing Tutorial For Beginners (In Under 5 Mins)",
+      "views": "128,093 views",
+      "subs": "13.1K"
+    },
+    {
+      "videoId": "NUX4vPYdDZk",
+      "title": "Charles Schwab Dashboard Tutorial",
+      "views": "10,006 views",
+      "subs": "870"
+    },
+    {
+      "videoId": "II7zVY2gIfo",
+      "title": "Using the Schwab Screener to Find Stocks | Screeners on Schwab.com",
+      "views": "4,158 views",
+      "subs": "212K"
+    },
+    {
+      "videoId": "E3i9B8F4f7o",
+      "title": "Intro to thinkorswim® Monitor Tab: Orders, Positions, and More",
+      "views": "7,818 views",
+      "subs": "552K"
+    },
+    {
+      "videoId": "bJ074NPIzSg",
+      "title": "How to Set Up Multiple Monitors on thinkorswim®",
+      "views": "12,261 views",
+      "subs": "552K"
+    }
+  ],
+  "channelRank": null
+}

@@ -1,0 +1,40 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "7W1MUWnq3lM",
+      "title": "2 Ways to Horizontal Scroll Your Framer Website",
+      "views": "46,402 views",
+      "subs": "82K"
+    },
+    {
+      "videoId": "GaC2BmNE6Hc",
+      "title": "Framer Horizontal Scroll tutorial",
+      "views": "17,953 views",
+      "subs": "2K"
+    },
+    {
+      "videoId": "wDM19IlTbig",
+      "title": "How To Create Horizontal Scroll Animation In Framer (Tutorial 2026)",
+      "views": "481 views",
+      "subs": "5K"
+    },
+    {
+      "videoId": "KLLLRKrW0ak",
+      "title": "How to: Add Horizontal Scroll while Scrolling Down in Framer",
+      "views": "14,370 views",
+      "subs": "6.1K"
+    },
+    {
+      "videoId": "AFitukBrpcQ",
+      "title": "How To Add Horizontal Scroll In Framer (Full Guide)",
+      "views": "989 views",
+      "subs": "8.8K"
+    }
+  ],
+  "channelRank": {
+    "position": 5,
+    "videoId": "AFitukBrpcQ",
+    "title": "How To Add Horizontal Scroll In Framer (Full Guide)"
+  }
+}

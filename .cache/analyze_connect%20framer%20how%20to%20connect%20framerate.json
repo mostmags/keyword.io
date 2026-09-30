@@ -1,0 +1,40 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "lwV77Jq2oCQ",
+      "title": "Publishing and connecting a domain in Framer",
+      "views": "66,513 views",
+      "subs": "359K"
+    },
+    {
+      "videoId": "jNYc9pM0uC4",
+      "title": "How to Connect Google Analytics to Framer (Tutorial 2026)",
+      "views": "345 views",
+      "subs": "5K"
+    },
+    {
+      "videoId": "fWe8gezkeWk",
+      "title": "Framer Ecommerce Build With Shopify | Tutorial with Frameship",
+      "views": "12,379 views",
+      "subs": "26K"
+    },
+    {
+      "videoId": "fQSWqKPNXb0",
+      "title": "Thinking in Frames (Fundamentals Lesson 4)",
+      "views": "77,079 views",
+      "subs": "359K"
+    },
+    {
+      "videoId": "cEamHEJYflI",
+      "title": "Adding Links in Framer (Fundamentals Lesson 15)",
+      "views": "73,436 views",
+      "subs": "359K"
+    }
+  ],
+  "channelRank": {
+    "position": 7,
+    "videoId": "C6Xg7RqQqk8",
+    "title": "How To Connect CMS In Framer (Full Guide)"
+  }
+}

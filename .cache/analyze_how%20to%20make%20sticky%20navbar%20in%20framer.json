@@ -1,0 +1,40 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "0Ls5HHIXigY",
+      "title": "How to Create a Sticky Header in Framer",
+      "views": "58,494 views",
+      "subs": "2.2K"
+    },
+    {
+      "videoId": "nPk_qEPrLwk",
+      "title": "Fixed and Sticky Positioning in Framer (Fundamentals Lesson 9)",
+      "views": "59,492 views",
+      "subs": "359K"
+    },
+    {
+      "videoId": "uWhe7X9Ut2Y",
+      "title": "How to MAKE NAVBAR STICKY in Framer (Step by Step)",
+      "views": "553 views",
+      "subs": "12.4K"
+    },
+    {
+      "videoId": "_gMvFsAZCcs",
+      "title": "Navbar Color Change on Scroll with Framer - Easy Tutorial",
+      "views": "5,871 views",
+      "subs": "1.9K"
+    },
+    {
+      "videoId": "nrICDRO1WYM",
+      "title": "Framer Fully Responsive Navbar (Only video you will ever need)",
+      "views": "10,870 views",
+      "subs": "16.6K"
+    }
+  ],
+  "channelRank": {
+    "position": 10,
+    "videoId": "PrSHzKgBoCU",
+    "title": "How To Create Sticky Header In Framer (Full Guide)"
+  }
+}

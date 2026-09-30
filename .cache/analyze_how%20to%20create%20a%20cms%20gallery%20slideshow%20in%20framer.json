@@ -1,0 +1,40 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "UiI5VHvfgwY",
+      "title": "Creating a Dynamic Image Slider with Framer CMS",
+      "views": "20,890 views",
+      "subs": "4.5K"
+    },
+    {
+      "videoId": "WuPyC_gpVQw",
+      "title": "Framer Update: CMS Galleries",
+      "views": "35,129 views",
+      "subs": "359K"
+    },
+    {
+      "videoId": "N5YTTaLCFmE",
+      "title": "This new Framer CMS feature is amazing (UPDATE)",
+      "views": "7,756 views",
+      "subs": "612"
+    },
+    {
+      "videoId": "x6gVXOnVnY0",
+      "title": "How To Add Video In CMS Framer (Full Video)",
+      "views": "3,540 views",
+      "subs": "8.8K"
+    },
+    {
+      "videoId": "nS_9yAABLwc",
+      "title": "Master Carousels in Framer (Slideshow, Ticker & Carousel)",
+      "views": "213,330 views",
+      "subs": "163K"
+    }
+  ],
+  "channelRank": {
+    "position": 4,
+    "videoId": "x6gVXOnVnY0",
+    "title": "How To Add Video In CMS Framer (Full Video)"
+  }
+}

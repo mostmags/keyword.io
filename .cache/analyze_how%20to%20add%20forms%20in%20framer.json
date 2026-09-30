@@ -1,0 +1,40 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "0uX6fJuVcmo",
+      "title": "Creating your first form in Framer",
+      "views": "116,612 views",
+      "subs": "359K"
+    },
+    {
+      "videoId": "FGIPeIql9d4",
+      "title": "Framer Forms are so Simple!",
+      "views": "24,857 views",
+      "subs": "446K"
+    },
+    {
+      "videoId": "B93lt9y_v2Q",
+      "title": "How To Embed A Form On Framer (2026 Easy Guide)",
+      "views": "487 views",
+      "subs": "1.5K"
+    },
+    {
+      "videoId": "yDXJNjNOpao",
+      "title": "How To Add Contact Form In Framer (Full Guide)",
+      "views": "1,536 views",
+      "subs": "8.8K"
+    },
+    {
+      "videoId": "CljBFaUdcTo",
+      "title": "How to Embed a Form on Framer (Step By Step) (2026 Guide)",
+      "views": "436 views",
+      "subs": "1.2K"
+    }
+  ],
+  "channelRank": {
+    "position": 4,
+    "videoId": "yDXJNjNOpao",
+    "title": "How To Add Contact Form In Framer (Full Guide)"
+  }
+}

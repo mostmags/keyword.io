@@ -1,0 +1,36 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "bTcodbNtH_Q",
+      "title": "Building 3D Websites With Spline and Framer (No-Code)",
+      "views": "87,267 views",
+      "subs": "82K"
+    },
+    {
+      "videoId": "P5H7zs0RsUM",
+      "title": "Learn Framer in 20 Minutes (Crash Course)",
+      "views": "1,011,577 views",
+      "subs": "1.1M"
+    },
+    {
+      "videoId": "u5TM2n1PuKU",
+      "title": "framer tutorial: building an animated 3D website from scratch",
+      "views": "8,343 views",
+      "subs": "82K"
+    },
+    {
+      "videoId": "mGyOz4tkJKw",
+      "title": "Framer Tutorial: Build a Site That Actually Looks \\\"Pro\\\" (2026)",
+      "views": "71,718 views",
+      "subs": "82K"
+    },
+    {
+      "videoId": "iS03Coj96Rk",
+      "title": "Framer Tutorial: Generate A Live Website With AI",
+      "views": "76,857 views",
+      "subs": "82K"
+    }
+  ],
+  "channelRank": null
+}

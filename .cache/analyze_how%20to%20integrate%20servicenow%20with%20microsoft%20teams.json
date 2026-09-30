@@ -1,0 +1,36 @@
+{
+  "isUnique": false,
+  "videos": [
+    {
+      "videoId": "1Emi6jWMJ-o",
+      "title": "Microsoft Teams integration | Setup guide",
+      "views": "7,339 views",
+      "subs": "62.1K"
+    },
+    {
+      "videoId": "TxsC1a0xScI",
+      "title": "How to: Simple ServiceNow to MS Teams Integration",
+      "views": "23,999 views",
+      "subs": "3.4K"
+    },
+    {
+      "videoId": "lKvPCYPjcA0",
+      "title": "ServiceNow Microsoft Teams Integration | MS Teams Spoke",
+      "views": "44,403 views",
+      "subs": "6.9K"
+    },
+    {
+      "videoId": "vsq-2rwXICc",
+      "title": "ServiceNow Conversational Integration with Microsoft Teams | ServiceNow Demo",
+      "views": "8,163 views",
+      "subs": "12.7K"
+    },
+    {
+      "videoId": "pk0a_uEy11U",
+      "title": "ServiceNow Virtual Agent Integration with Microsoft Teams - ITSM Demo",
+      "views": "42,563 views",
+      "subs": "62.1K"
+    }
+  ],
+  "channelRank": null
+}

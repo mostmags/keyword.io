@@ -1,0 +1,36 @@
+{
+  "isUnique": false,
+  "videos": [
+    {
+      "videoId": "3xqEuSQBBxo",
+      "title": "Microsoft Team: Share and Collaborate on Files on Computer",
+      "views": "214 views",
+      "subs": "10K"
+    },
+    {
+      "videoId": "Pl__0ws3AZs",
+      "title": "All about file sharing in Microsoft Teams",
+      "views": "93,116 views",
+      "subs": "55.3K"
+    },
+    {
+      "videoId": "k_aPH_7iQ8c",
+      "title": "How to Collaborate on Documents in Microsoft Teams - Change Settings & Share Editable Documents",
+      "views": "8,301 views",
+      "subs": "10.4K"
+    },
+    {
+      "videoId": "dbvcBIsnj2k",
+      "title": "How to Manage and Collaborate on Files in Microsoft Teams",
+      "views": "52,655 views",
+      "subs": "3.5K"
+    },
+    {
+      "videoId": "vF5ZHYD2Am0",
+      "title": "How to Collaborate on a File with your Team in Teams",
+      "views": "26,827 views",
+      "subs": "49.3K"
+    }
+  ],
+  "channelRank": null
+}

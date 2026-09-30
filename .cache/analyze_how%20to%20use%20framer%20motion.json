@@ -1,0 +1,36 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "P5H7zs0RsUM",
+      "title": "Learn Framer in 20 Minutes (Crash Course)",
+      "views": "1,012,874 views",
+      "subs": "1.1M"
+    },
+    {
+      "videoId": "JALCoY9MQg8",
+      "title": "Framer Motion Tutorial – Master React Animations (Beginner to Advanced)",
+      "views": "144,432 views",
+      "subs": "737K"
+    },
+    {
+      "videoId": "ITsJO1f7VI8",
+      "title": "Framer Motion Tutorial – Master React Animations (Beginner to Advanced) 2 Hours",
+      "views": "1,698 views",
+      "subs": "46.6K"
+    },
+    {
+      "videoId": "XtOJlF9UuiU",
+      "title": "Framer Motion : Variants in Motion | EP - 3 | ​⁠Manu Arora",
+      "views": "11,181 views",
+      "subs": "33.1K"
+    },
+    {
+      "videoId": "1w6HIurOqjw",
+      "title": "Framer Complete Course 2026",
+      "views": "222,050 views",
+      "subs": "16.6K"
+    }
+  ],
+  "channelRank": null
+}

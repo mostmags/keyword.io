@@ -1,0 +1,36 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "eE5Ss7PY0uE",
+      "title": "How to Use the Schwab Digital Wallet with Apple Pay or Google Pay",
+      "views": "32 views",
+      "subs": "1K"
+    },
+    {
+      "videoId": "AJ6zNhYYkG8",
+      "title": "How To Setting  Apple Pay Integration and App Signing With An Apple Developer Account",
+      "views": "3,839 views",
+      "subs": "466"
+    },
+    {
+      "videoId": "begu-KBaq_U",
+      "title": "How To Withdraw Your Money From Charles Schwab (App)",
+      "views": "22,715 views",
+      "subs": "122K"
+    },
+    {
+      "videoId": "LMaSZUSq9O4",
+      "title": "How to Add a Bank on File on Charles Schwab (App)",
+      "views": "7,422 views",
+      "subs": "122K"
+    },
+    {
+      "videoId": "VSdYYmB3ZDU",
+      "title": "How to Add Money to Charles Schwab (App)",
+      "views": "18,966 views",
+      "subs": "122K"
+    }
+  ],
+  "channelRank": null
+}

@@ -1,0 +1,40 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "LdlILtKv60M",
+      "title": "Tutorial: Animated Backgrounds in Framer (Shaders)",
+      "views": "1,768 views",
+      "subs": "19.8K"
+    },
+    {
+      "videoId": "fMrR-NqyGSk",
+      "title": "Top 8 Ways to Create Beautiful Website Backgrounds",
+      "views": "70,685 views",
+      "subs": "82K"
+    },
+    {
+      "videoId": "o1aWhxassTA",
+      "title": "How To Add Video Backgrounds in Framer",
+      "views": "10,904 views",
+      "subs": "3.5K"
+    },
+    {
+      "videoId": "Ya9oHtLEUMw",
+      "title": "Framer tutorial: Add background videos",
+      "views": "32,845 views",
+      "subs": "19.8K"
+    },
+    {
+      "videoId": "-e6y7KJF0dQ",
+      "title": "How to create moving gradients and other cool background animations on @Framer",
+      "views": "41,389 views",
+      "subs": "106K"
+    }
+  ],
+  "channelRank": {
+    "position": 12,
+    "videoId": "M6ImJcQzhgg",
+    "title": "How To Add Background Video In Framer (Full Guide)"
+  }
+}

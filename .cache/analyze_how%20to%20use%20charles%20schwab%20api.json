@@ -1,0 +1,36 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "2MdkY2XuApQ",
+      "title": "How to Use Charles Schwab API - Step by Step",
+      "views": "2,552 views",
+      "subs": "1.4K"
+    },
+    {
+      "videoId": "69cniU1CTf8",
+      "title": "Schwab API Full Tutorial In Python (With Schwabdev)",
+      "views": "12,577 views",
+      "subs": "2.3K"
+    },
+    {
+      "videoId": "AOiFYj5iM5U",
+      "title": "Charles Schwab (Trader) API & R - Getting Started",
+      "views": "20,289 views",
+      "subs": "8.8K"
+    },
+    {
+      "videoId": "GNJoYK0tKeA",
+      "title": "Build Your Own Trading Bot Part 1 - Charles Schwab API Foundation",
+      "views": "20,596 views",
+      "subs": "750"
+    },
+    {
+      "videoId": "kHbom0KIJwc",
+      "title": "Schwab API Python Tutorial (Authentication and Requests)",
+      "views": "54,417 views",
+      "subs": "2.3K"
+    }
+  ],
+  "channelRank": null
+}

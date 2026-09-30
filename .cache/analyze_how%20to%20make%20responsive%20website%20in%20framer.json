@@ -1,0 +1,36 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "hHQNXEcR4O8",
+      "title": "Making Responsive Websites in Framer",
+      "views": "84,808 views",
+      "subs": "1.1M"
+    },
+    {
+      "videoId": "6pXsdCxy2Oo",
+      "title": "Framer for Beginners: The #1 Secret to a Responsive Site (2026)",
+      "views": "64,016 views",
+      "subs": "82K"
+    },
+    {
+      "videoId": "P5H7zs0RsUM",
+      "title": "Learn Framer in 20 Minutes (Crash Course)",
+      "views": "1,012,876 views",
+      "subs": "1.1M"
+    },
+    {
+      "videoId": "NJL9zALM-bY",
+      "title": "framer tutorial: building a responsive site from scratch",
+      "views": "64,509 views",
+      "subs": "82K"
+    },
+    {
+      "videoId": "REhpndQmOM8",
+      "title": "Fixed, Relative, and Viewport Sizing in Framer (Fundamentals Lesson 10)",
+      "views": "77,822 views",
+      "subs": "359K"
+    }
+  ],
+  "channelRank": null
+}

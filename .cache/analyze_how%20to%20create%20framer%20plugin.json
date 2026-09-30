@@ -1,0 +1,40 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "_DBej0Q7sVM",
+      "title": "How to Create Your First Framer Plugin: Easy Installation Guide",
+      "views": "2,876 views",
+      "subs": "3.5K"
+    },
+    {
+      "videoId": "Ul7U-NW4P0U",
+      "title": "Framer Plugin Boilerplate Tutorial 2026 | Build & Sell Plugins with Licensing, Auth & Analytics",
+      "views": "488 views",
+      "subs": "46"
+    },
+    {
+      "videoId": "La8kzGFbKH4",
+      "title": "Create a Framer Plugin with Cursor AI",
+      "views": "1,961 views",
+      "subs": "2K"
+    },
+    {
+      "videoId": "8gAMk-D3e8A",
+      "title": "Create a Framer Plugin Using AI (Claude)",
+      "views": "3,934 views",
+      "subs": "6.8K"
+    },
+    {
+      "videoId": "sianDZxXLr4",
+      "title": "How To Add Plugin In Framer (Full Guide)",
+      "views": "530 views",
+      "subs": "8.8K"
+    }
+  ],
+  "channelRank": {
+    "position": 5,
+    "videoId": "sianDZxXLr4",
+    "title": "How To Add Plugin In Framer (Full Guide)"
+  }
+}

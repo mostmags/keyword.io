@@ -1,0 +1,40 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "Cz52GG0h9GI",
+      "title": "Framer for Beginners: Creating a Responsive Website Navigation",
+      "views": "105,514 views",
+      "subs": "82K"
+    },
+    {
+      "videoId": "-2CbpZq4i8k",
+      "title": "Framer Tutorial: Responsive Navigation Bar",
+      "views": "37,768 views",
+      "subs": "19.8K"
+    },
+    {
+      "videoId": "tGOqyMji3PQ",
+      "title": "How to Make a Navigation Bar in Framer (Step-by-Step)",
+      "views": "39,437 views",
+      "subs": "82K"
+    },
+    {
+      "videoId": "E70kiUQDSFM",
+      "title": "How to Build a RESPONSIVE Navbar in Framer (tutorial)",
+      "views": "4,268 views",
+      "subs": "19.8K"
+    },
+    {
+      "videoId": "nrICDRO1WYM",
+      "title": "Framer Fully Responsive Navbar (Only video you will ever need)",
+      "views": "10,867 views",
+      "subs": "16.6K"
+    }
+  ],
+  "channelRank": {
+    "position": 7,
+    "videoId": "EDbHG-k5yxw",
+    "title": "How To Create A Navigation Bar In Framer (Full Guide)"
+  }
+}

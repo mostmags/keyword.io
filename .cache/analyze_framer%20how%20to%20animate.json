@@ -1,0 +1,36 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "zDCbzaGvMmI",
+      "title": "6 Simple Ways to Animate Your Framer Site",
+      "views": "115,148 views",
+      "subs": "82K"
+    },
+    {
+      "videoId": "1yhwglXdDjQ",
+      "title": "Bringing websites to life with animation in Framer (Animation Lesson 1)",
+      "views": "79,582 views",
+      "subs": "359K"
+    },
+    {
+      "videoId": "m4NrsF5ejN8",
+      "title": "From Zero to Pro: Framer Animations Explained",
+      "views": "1,389 views",
+      "subs": "4.5K"
+    },
+    {
+      "videoId": "GACOeDasvys",
+      "title": "Framer Animation Tutorial: Every Effect Explained (2026)",
+      "views": "3,775 views",
+      "subs": "16.6K"
+    },
+    {
+      "videoId": "JALCoY9MQg8",
+      "title": "Framer Motion Tutorial – Master React Animations (Beginner to Advanced)",
+      "views": "144,342 views",
+      "subs": "737K"
+    }
+  ],
+  "channelRank": null
+}

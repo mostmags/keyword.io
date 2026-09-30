@@ -1,0 +1,40 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "Q2FTA7Y18GE",
+      "title": "Framer Tutorial: Floating Navigation Bar (Download and use for free)",
+      "views": "984 views",
+      "subs": "1.9K"
+    },
+    {
+      "videoId": "h2ntwME7uRI",
+      "title": "Framer Tutorial: Creating a Floating Scroll Back Button in Framer",
+      "views": "9,469 views",
+      "subs": "533"
+    },
+    {
+      "videoId": "hSIdPgCkEBw",
+      "title": "Floating Action Button — Framer Crash Course",
+      "views": "14,954 views",
+      "subs": "105K"
+    },
+    {
+      "videoId": "Lgwwh5P8kIg",
+      "title": "Create Back to Top Scroll to Top Button in Framer Step by Step | #howtoframer #framerbacktotopbutton",
+      "views": "2,607 views",
+      "subs": "31"
+    },
+    {
+      "videoId": "T-2jliitju4",
+      "title": "Cool Hover Effects In Framer Tutorial",
+      "views": "71,702 views",
+      "subs": "1.1M"
+    }
+  ],
+  "channelRank": {
+    "position": 10,
+    "videoId": "lX99y0kqAEE",
+    "title": "How To Animate Button In Framer (Full Guide)"
+  }
+}

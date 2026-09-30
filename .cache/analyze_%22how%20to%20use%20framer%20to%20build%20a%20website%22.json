@@ -1,0 +1,36 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "P5H7zs0RsUM",
+      "title": "Learn Framer in 20 Minutes (Crash Course)",
+      "views": "1,011,687 views",
+      "subs": "1.1M"
+    },
+    {
+      "videoId": "6uNv7pUexVQ",
+      "title": "Learn Framer for Web Design FAST (Beginner Friendly)",
+      "views": "32,567 views",
+      "subs": "48.3K"
+    },
+    {
+      "videoId": "mGyOz4tkJKw",
+      "title": "Framer Tutorial: Build a Site That Actually Looks \\\"Pro\\\" (2026)",
+      "views": "71,718 views",
+      "subs": "82K"
+    },
+    {
+      "videoId": "Vlu_-LoKzHo",
+      "title": "Framer Tutorial | How to Use Framer to build a website (Full Guide)",
+      "views": "13,224 views",
+      "subs": "295K"
+    },
+    {
+      "videoId": "CUugkw8J8-Y",
+      "title": "Master Framer Site Creation in Just 9 Minutes",
+      "views": "37,859 views",
+      "subs": "81.9K"
+    }
+  ],
+  "channelRank": null
+}

@@ -1,0 +1,36 @@
+{
+  "isUnique": true,
+  "videos": [
+    {
+      "videoId": "P5H7zs0RsUM",
+      "title": "Learn Framer in 20 Minutes (Crash Course)",
+      "views": "1,011,601 views",
+      "subs": "1.1M"
+    },
+    {
+      "videoId": "LnmpY77Xo4E",
+      "title": "How to use Framer for Websites?",
+      "views": "120,726 views",
+      "subs": "729K"
+    },
+    {
+      "videoId": "9fXcdmqYNW8",
+      "title": "How I Learned Framer FAST (As a Beginner)",
+      "views": "122,193 views",
+      "subs": "16.9K"
+    },
+    {
+      "videoId": "1w6HIurOqjw",
+      "title": "Framer Complete Course 2026",
+      "views": "221,464 views",
+      "subs": "16.6K"
+    },
+    {
+      "videoId": "BDrEB0S1YZg",
+      "title": "Framer Tutorial: For Beginners (New 2026)",
+      "views": "37,803 views",
+      "subs": "19.8K"
+    }
+  ],
+  "channelRank": null
+}
